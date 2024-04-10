@@ -18,6 +18,10 @@
 # files if adding them here.
 !/Content/Core/**/*.uasset
 !/Content/Core/**/*.umap
+!/Content/__ExternalActors__/**/*/.uasset
+!/Content/__ExternalActors__/**/*/.umap
+!/Content/__ExternalObjects__/**/*/.uasset
+!/Content/__ExternalObjects__/**/*/.umap
 
 # OS/platform generated files.
 
