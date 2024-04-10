@@ -1,7 +1,7 @@
 # Anything in Content/Core dir of type uasset or umap.
 /Content/Core/**/*.uasset filter=lfs diff=lfs merge=lfs -text
 /Content/Core/**/*.umap filter=lfs diff=lfs merge=lfs -text
-/Content/__ExternalActors__/**/*/.uasset filter=lfs diff=lfs merge=lfs -text
-/Content/__ExternalActors__/**/*/.umap filter=lfs diff=lfs merge=lfs -text
-/Content/__ExternalObjects__/**/*/.uasset filter=lfs diff=lfs merge=lfs -text
-/Content/__ExternalObjects__/**/*/.umap filter=lfs diff=lfs merge=lfs -text
+/Content/__ExternalActors__/** filter=lfs diff=lfs merge=lfs -text
+/Content/__ExternalActors__/** filter=lfs diff=lfs merge=lfs -text
+/Content/__ExternalObjects__/** filter=lfs diff=lfs merge=lfs -text
+/Content/__ExternalObjects__/** filter=lfs diff=lfs merge=lfs -text
