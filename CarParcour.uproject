@@ -46,7 +46,11 @@
 		},
 		{
 			"Name": "Modern_CityKit",
-			"Enabled": false
+			"Enabled": true
+		},
+		{
+			"Name": "Sample_CityKit",
+			"Enabled": true
 		}
 	]
 }
