@@ -51,6 +51,10 @@
 		{
 			"Name": "Sample_CityKit",
 			"Enabled": true
+		},
+		{
+			"Name": "BaseKit_Medieval",
+			"Enabled": true
 		}
 	]
 }
